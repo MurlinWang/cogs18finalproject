@@ -1,4 +1,6 @@
 # If your project has any requirements not included in anaconda, include them here
 
 I include my main function in the ProjectNotebook.
-You could just run the notebook and start playing!
+Note that I import functions from my_module, which is a folder that needed to be created.
+Maybe you could include the functions.py file under a folder called my_module.
+Then, you could just run the notebook and start playing!
