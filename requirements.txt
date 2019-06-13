@@ -1,0 +1,4 @@
+# If your project has any requirements not included in anaconda, include them here
+
+I include my main function in the ProjectNotebook.
+You could just run the notebook and start playing!
